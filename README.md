@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=d1emotestbot&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bots.Business%20%E0%A6%8F%E0%A6%B0%20%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF%20%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%20%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%20%E0%A6%AC%E0%A6%9F&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=REFFER TO EARN BOT &fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bots.Business%20%E0%A6%8F%E0%A6%B0%20%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF%20%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%20%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%20%E0%A6%AC%E0%A6%9F&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <a href="https://t.me/d1emotestbot">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=%F0%9F%A4%96+%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%97%E0%A6%A4%E0%A6%AE!+d1emotestbot;%E2%9A%A1+%E0%A6%B8%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%87+%E0%A6%A8%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0+%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE+%E0%A6%AC%E0%A6%9F+%E0%A6%AC%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%A8;%F0%9F%9A%80+Bots.Business+%E0%A6%A6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87+%E0%A6%87%E0%A6%AE%E0%A6%AA%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F+%E0%A6%95%E0%A6%B0%E0%A7%81%E0%A6%A8" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 
 ## 📖 এটি কী?
 
-এই রিপোজিটরিটি একটি **ওয়ার্কিং চ্যাট বট** যা সরাসরি [Bots.Business](https://bots.business)-এ ইমপোর্ট করা যায়।
+এই রিপোজিটরিটি একটি *REFF TO EARN** যা সরাসরি [Bots.Business](https://bots.business)-এ ইমপোর্ট করা যায়।
 
 **Bots.Business** সম্ভবত প্রথম **CBPaaS** (Chat Bot Platform as a Service)।
 CBPaaS হলো একটি ক্লাউড-ভিত্তিক প্ল্যাটফর্ম, যেখানে ডেভেলপাররা আলাদা ব্যাকএন্ড তৈরি না করেই সহজে চ্যাটবট বানাতে পারেন।
